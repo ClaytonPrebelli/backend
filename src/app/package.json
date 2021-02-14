@@ -2,13 +2,14 @@
   "name": "apiprebelli",
   "version": "1.0.0",
   "description": "api para uso em teste front",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
